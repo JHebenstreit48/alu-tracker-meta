@@ -1,6 +1,6 @@
 # 🏎️ ALU Tracker — Asphalt Legends Unite Companion Project
 
-**ALU Tracker** is a fan-made project designed to help players track cars, progress, and community data for *Asphalt Legends Unite* (formerly *Asphalt Legends*).  
+**ALU Tracker** is a fan-made project designed to help players track cars, progress, and community data for *Asphalt Legends* (formerly *Asphalt Legends Unite and before that Asphalt 9 Legends*).  
 This project is not affiliated with, endorsed by, or sponsored by **Gameloft** — just built by passionate fans who love cars, code, and spreadsheets a little too much.
 
 ---
@@ -10,10 +10,8 @@ This project is not affiliated with, endorsed by, or sponsored by **Gameloft** �
 | Repo | Description | Public / Private |
 |------|--------------|------------------|
 | [alu-tracker-front-end](https://github.com/JHebenstreit48/alu-tracker-front-end) | React + TypeScript front-end for the main tracker site (deployed via Netlify). | Public |
-| [alu-tracker-back-end](https://github.com/JHebenstreit48/alu-tracker-back-end) | Node / Express + MongoDB back-end providing car and game data APIs. | Public |
+| [alu-tracker-platform](https://github.com/JHebenstreit48/alu-tracker-platform) | Node / Express + MongoDB back-end providing car and game data APIs. | Public |
 | [alu-tracker-user-data](https://github.com/JHebenstreit48/alu-tracker-user-data) | Handles user accounts, localStorage syncing, and merge-safe user progression data. | Private |
-| [alu-tracker-comments-api](https://github.com/JHebenstreit48/alu-tracker-comments-api) | API for user and non-user comments, feedback, and discussion threads. | Public |
-| [alu-tracker-image-vault](https://github.com/JHebenstreit48/alu-tracker-image-vault) | Repository for static images, logos, and artwork assets, to lighten API load. | Planned |
 
 ---
 
@@ -34,8 +32,7 @@ This project is not affiliated with, endorsed by, or sponsored by **Gameloft** �
 - ✅ Track cars, garage levels, and upgrade progress  
 - ✅ Comment & feedback APIs for both logged and guest users  
 - ✅ User data synchronization (account ↔ localStorage)  
-- 🚧 Garage Level XP progress rings & summary stats (in progress)  
-- 🚧 Image repository migration to reduce build size & improve load times  
+- 🚧 Garage Level XP progress rings & summary stats (nearing completion)
 
 ---
 
@@ -56,8 +53,8 @@ All environments use strict TypeScript, modular SCSS, and ESLint-enforced code q
 
 ## 🧭 Links
 
-- 🌐 **Main Tracker Site** — [coming soon when live]  
-- 💬 **Project Updates & Docs** — check each repo’s README for deployment details  
-- 🛠️ **Issue Tracker / Contributions** — Contributions welcome on public repos!
+- 🌐 **Main Tracker Site** — [ALU/AL Tracker](https://asphaltlegendsunitetracker.netlify.app/)  
+- 💬 **Project Updates & Docs** — check each repo’s README for deployment details (in progress)
+- 🛠️ **Issue Tracker / Contributions** - Public feedback welcome through Feedback page.
 
 ---
