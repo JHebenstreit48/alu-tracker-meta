@@ -20,9 +20,9 @@ This project is not affiliated with, endorsed by, or sponsored by **Gameloft** �
 | Layer | Tools |
 |-------|-------|
 | Front End | React + Vite + TypeScript + SCSS |
-| Back End APIs | Node.js + Express + MongoDB (Render hosting) |
-| Storage & Hosting | MongoDB Atlas • Netlify • Render • (Soon) Supabase for image storage |
-| Auth & Data | JWT + localStorage merge logic for offline/online sync |
+| Back End APIs | Node.js + Express + MongoDB (Render hosting)-(obsolete) + Firebase (new back end) |
+| Storage & Hosting | MongoDB Atlas-(obsolete) + Netlify + Render(obsolete) + Firebase (where the back end has recently been migrated to) |
+| Auth & Data | JWT + localStorage merge logic for offline/online sync (also been moved to Firebase as well)|
 | Styling | Custom purple-gradient + gold accent SCSS theme |
 
 ---
